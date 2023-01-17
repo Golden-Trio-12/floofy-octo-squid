@@ -1,0 +1,43 @@
+.header{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px grey;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.note{
+    font-size: 15px;
+    color: white;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px, solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: -30px;
+    margin-left: 100px;
+    
+}
+
+video{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+body
+{
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
